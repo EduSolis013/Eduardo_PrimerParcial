@@ -123,15 +123,15 @@ movimientoService.AgregarMovimiento(new Infraestructura.Modelos.MovimientoModel(
 var obtMovimiento = movimientoService.obtenerMovimiento(2);
 Console.WriteLine($"Fecha: {obtMovimiento.fecha_movimiento} saldo: {obtMovimiento.saldo_actual} movimiento: {obtMovimiento.monto_movimiento} destino: {obtMovimiento.cuenta_destino}");
 
-var EditMovimiento = movimientoService.obtenerMovimiento(2);
-EditMovimiento.id_cuentas = 1;
-EditMovimiento.fecha_movimiento = DateTime.Now;
-EditMovimiento.tipo_movimiento = "Debito";
-EditMovimiento.cuenta_destino = 814306;
-EditMovimiento.canal_decimal = "8";
-EditMovimiento.monto_movimiento = 1529;
-EditMovimiento.saldo_actual = 155693;
-EditMovimiento.cuenta_origen = 48482971;
+var AlterMovimiento = movimientoService.obtenerMovimiento(2);
+AlterMovimiento.id_cuentas = 1;
+AlterMovimiento.fecha_movimiento = DateTime.Now;
+AlterMovimiento.tipo_movimiento = "Debito";
+AlterMovimiento.cuenta_destino = 814306;
+AlterMovimiento.canal_decimal = "8";
+AlterMovimiento.monto_movimiento = 1529;
+AlterMovimiento.saldo_actual = 155693;
+AlterMovimiento.cuenta_origen = 48482971;
 
 movimientoService.alterarCiudad(EditMovimiento);
 
