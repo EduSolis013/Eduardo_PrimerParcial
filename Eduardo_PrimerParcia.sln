@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eduardo_PrimerParcia", "Eduardo_PrimerParcia\Eduardo_PrimerParcia.csproj", "{3D20F0FE-B1A2-48F1-8F57-C7064F3F4619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestrutura", "Infraestrutura\Infraestrutura.csproj", "{89937AE4-E99B-4ADC-94DF-02310CBFFCB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{02DF6BD2-F438-4661-8512-F981986F20DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D20F0FE-B1A2-48F1-8F57-C7064F3F4619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D20F0FE-B1A2-48F1-8F57-C7064F3F4619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D20F0FE-B1A2-48F1-8F57-C7064F3F4619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D20F0FE-B1A2-48F1-8F57-C7064F3F4619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89937AE4-E99B-4ADC-94DF-02310CBFFCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89937AE4-E99B-4ADC-94DF-02310CBFFCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89937AE4-E99B-4ADC-94DF-02310CBFFCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89937AE4-E99B-4ADC-94DF-02310CBFFCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DF6BD2-F438-4661-8512-F981986F20DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DF6BD2-F438-4661-8512-F981986F20DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DF6BD2-F438-4661-8512-F981986F20DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DF6BD2-F438-4661-8512-F981986F20DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

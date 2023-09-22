@@ -1,0 +1,15 @@
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\bin\Debug\net7.0\Service.deps.json
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\bin\Debug\net7.0\Service.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\bin\Debug\net7.0\Service.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\bin\Debug\net7.0\Infraestrutura.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\bin\Debug\net7.0\Infraestrutura.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\obj\Debug\net7.0\Service.csproj.CopyComplete
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\obj\Debug\net7.0\Service.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\obj\Debug\net7.0\Service.pdb
+C:\Users\aleja_7j3yrdb\Escritorio\Eduardo_PrimerParcia\Service\obj\Debug\net7.0\ref\Service.dll
